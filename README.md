@@ -1,7 +1,8 @@
+![HeaaderImage](https://camo.githubusercontent.com/5dd958963277e29a5da3c53b758daab0ec77de8de08d1b80eb94c7cd7065dabb/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)
+
 ## Hi there 👋
 
-<!--
-**Jamesonahi/jamesonahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Jamesonahi/jamesonahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
